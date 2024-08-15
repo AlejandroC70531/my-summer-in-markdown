@@ -21,7 +21,9 @@ The Summer in California does not bode well in terms of the weather, but that di
   + I went to Six Flags  with my mom on the Tuesday before I started Summer School, and I have to tell you it has become my favorite of The Big Three! It was here when I first discovered my love for rollercoasters... or the ones with one loop/corkscrew or less anyway. The park is so magnificent in all ways from the location to the rides! Speaking of which, my favorites are Revolution and Ninja, followed closely by Jet Stream and Gold Miner. Every trip there gets even more fun, and I hope to go back very soon!
 
  * Knotts Berry Farm
-   ![](/Knotts_Berry_Farm_logo.svg)
+
+   
+   ![](/Knotts_Berry_Farm_logo.png)
    
    + I went to Knotts Berry Farm two weeks after I left Summer School with my mom. I was actually there not long ago celebrating my dad's birthday in February, but this time, I stayed for 3 days and 2 nights in the Knotts Berry Farm Hotel. On the first night, we actually went down the street to Medieval Times, which is basically a show set in medieval Spain with 6 different factions, and they compete in assorted games including jousting. My faction didn't win, but it was still fun anyway. The next day, we actually went into the park to have fun. However, we decided to get the Fast Pass after entering the park to the avoid two hour lines. It was definitely worth it because we got to ride everything we wanted to at least twice! My favorite ride there is the wooden rollercoaster known as Ghostrider, which we rode 4 times. That same night, we had dinner at the official chicken place where I enjoyed Chicken and Dumplings. It was nice to finally be back to the hotel, especially after the renovations. This was definitely a trip that will stick with me for a while.
 
