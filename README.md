@@ -16,4 +16,4 @@ The Summer in California does not bode well in terms of the weather, but that di
 
 * Six Flags
 
-  ![](/)
+  ![](/) 
