@@ -2,9 +2,9 @@
 
 ## Hello There!
 
-![Hello There!](/star-wars-obi-wan-kenobi.gif)
+![](/star-wars-obi-wan-kenobi.gif)
 
-I'm Alejandro! I'm currently in 10th Grade, and this repository is for my Computer Science class! I am a mixture of Mexican, German, Dutch, and Polish and I love to explore my roots. I am very passionate about world history, cooking, nature, and cultures from around the world. This is my first ever repository, so I hope you enjoy it. I will now dive into certain topics relating to what I did this Summer!
+I'm Alejandro! I'm currently in 10th Grade, and this repository is for my Computer Science class! I am a mixture of Mexican, German, Dutch, and Polish and I love to explore my roots. I am very passionate about world history, cooking, nature, and cultures from around the world. This is my first ever repository, so I hope you'll enjoy it. For now, I will now dive into certain topics relating to what I did this Summer!
 
 ## Summer School
 
@@ -12,8 +12,13 @@ This year, I took my first ever Summer School class for 4 weeks in total. I went
 
 ## Visiting "The Big Three"
 
-The Summer in California does not bode well in terms of the weather, but that didn't stop me from visiting what I call "The Big Three". This is my nickname for Disneyland, Knotts Berry Farm, and Six Flags Magic Mountain, the three biggest amusement parks in CA! While I may not have any pictures from there, here are my three experiences at them, from the beginning of SUmmer to the end.
+The Summer in California does not bode well in terms of the weather, but that didn't stop me from visiting what I call "The Big Three". This is my nickname for Disneyland, Knotts Berry Farm, and Six Flags Magic Mountain, the three biggest amusement parks in CA! While I may not have any pictures from there, here are my three experiences at them, from the beginning of Summer to the end.
 
 * Six Flags
 
-  ![](/) 
+  ![](/Six_Flags_Magic_Mountain_logo.png)
+
+  + I went to Six Flags  with my mom on the Tuesday before I started Summer School, and I have to tell you it has become my favorite of The Big Three! It was here when I first discovered my love for rollercoasters... or the ones with one loop/corkscrew or less anyway. The park is so magnificent in all ways from the location to the rides! Speaking of which, my favorites are Revolution and Ninja, followed closely by Jet Stream and Gold Miner. Every trip there gets even more fun, and I hope to go back very soon!
+
+ * Knotts Berry Farm
+ ![](/)
